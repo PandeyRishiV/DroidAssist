@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DroidAssist</string>
     <string name="add_action_set"> Add a new action set </string>
+    <string name="title"> Title</string>
 </resources>
